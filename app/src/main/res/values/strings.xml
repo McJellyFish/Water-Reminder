@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">watertrack</string>
+    <string-array name="category_array">
+        <item>Weight Loss</item>
+        <item>Weight Gain</item>
+    </string-array>
+</resources>
